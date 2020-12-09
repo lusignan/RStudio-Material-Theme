@@ -2850,18 +2850,22 @@ input#rstudio_command_palette_search {
   color: #6c6f93 !important;
   border-color: #0F121C !important;
 }
-
-.rstudio-themes-flat .dialogContent input[type="checkbox"][value="on"] {
-  background: #0F121C !important;
-  color: #A5ABD0 !important;
+.macintosh .gwt-CheckBox input[type="checkbox"], .linux .gwt-CheckBox input[type="checkbox"] {
+    -webkit-appearance: none;
+    -moz-appearance: none;
+    outline: none;
+    width: 13px;
+    height: 13px;
+    border: 1px solid #0F121C;
+    background: #0F121C;
+    vertical-align: middle;
+    margin: 3px 3px 5px 3px;
+    -webkit-border-radius: 3px;
 }
 
-.rstudio-themes-flat .dialogContent input[type="checkbox"][value="on"]::before {
-  content: "\2713" !important;
-  color: #A5ABD0 !important;
-  vertical-align: top;
-  line-height: 1;
-  font-weight: 600;
+.macintosh input[type="checkbox"]:checked, .linux .gwt-CheckBox input[type="checkbox"]:checked, .windows-highdpi .gwt-CheckBox input[type="checkbox"]:checked, .rstudio-themes-flat input[type="checkbox"]:checked {
+    background: #A5ABD0 !important;
+    border-color: #0F121C !important;
 }
 
 .rstudio-themes-flat .dialogContent select {
