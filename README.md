@@ -9,6 +9,10 @@ Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Materi
          alt="Ocean">    
 </figure>
 
+To install the Ocean variant, run the following in the RStudio console:
+```r
+rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-ocean.rstheme", apply = TRUE)
+```
 
 <figure>
     <figcaption>Palenight:</figcaption>
@@ -16,12 +20,6 @@ Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Materi
          alt="Palenight">
 </figure>
 
-## Installation
-
-To install the Ocean variant, run the following in the RStudio console:
-```r
-rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-ocean.rstheme", apply = TRUE)
-```
 To install the Palenight variant, run the following in the RStudio console:
 ```r
 rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-palenight.rstheme", apply = TRUE)
