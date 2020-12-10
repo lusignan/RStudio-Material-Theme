@@ -5,7 +5,7 @@ Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Materi
 
 <figure>
     <figcaption>Ocean:</figcaption>
-    <img src="https://github.com/lusignan/RStudio-Material-Theme/blob/main/img/material-ocean.png"
+    <img src="https://github.com/lusignan/RStudio-Material-Theme/blob/main/img/Material-Ocean.png"
          alt="Ocean">    
 </figure>
 
