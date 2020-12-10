@@ -251,7 +251,7 @@
 }
 
 .ace_markup.ace_href {
-  color: #67CDC4;
+  color: #C792E9;
 }
 
 .nocolor.ace_editor .ace_line span {
