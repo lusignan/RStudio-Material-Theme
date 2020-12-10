@@ -178,7 +178,7 @@
 }
 
 .ace_comment {
-  color: #454C5E;
+  color: #666D98;
 }
 
 .ace_invisible {
@@ -251,7 +251,7 @@
 }
 
 .ace_markup.ace_href {
-  color: #67CDC4;
+  color: #C792E9;
 }
 
 .nocolor.ace_editor .ace_line span {
