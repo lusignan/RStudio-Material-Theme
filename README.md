@@ -1,6 +1,6 @@
 # RStudio-Material-Theme
 
-Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Material Theme](https://github.com/material-theme/vsc-material-theme) in the Ocean and Palenight variants.
+Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Material Theme](https://github.com/material-theme/vsc-material-theme) in the Ocean and Palenight variants. The theme was built using [Gaden Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes) as a template.
 
 
 <figure>
