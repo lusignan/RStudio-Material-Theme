@@ -2,7 +2,19 @@
 
 Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Material Theme](https://github.com/material-theme/vsc-material-theme) in the Ocean and Palenight variants.
 
-![Preview](https://github.com/lusignan/RStudio-Material-Theme/blob/main/img/material-ocean.png)
+
+<figure>
+    <figcaption>Ocean:</figcaption>
+    <img src="https://github.com/lusignan/RStudio-Material-Theme/blob/main/img/material-ocean.png"
+         alt="Ocean">    
+</figure>
+
+
+<figure>
+    <figcaption>Palenight:</figcaption>
+    <img src="https://github.com/lusignan/RStudio-Material-Theme/blob/main/img/material-palenight.png"
+         alt="Palenight">
+</figure>
 
 ## Installation
 
