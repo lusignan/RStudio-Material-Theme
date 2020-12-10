@@ -468,7 +468,6 @@ table.rstheme_tabLayoutCenter .gwt-Label,
   border-color: #090D14 !important;
 }
 
-/* Borrowed from https://github.com/anthonynorth/rscodeio */
 /* splitters */
 .rstudio-themes-flat > .rstudio-themes-dark .gwt-SplitLayoutPanel-HDragger {
   border-color: #090D14;
@@ -2871,6 +2870,11 @@ input#rstudio_command_palette_search {
 .rstudio-themes-flat .dialogContent select {
   background: #0F121C !important;
   color: #A5ABD0 !important;
+}
+
+.rstudio-themes-dark .dataGridHeader, .rstudio-themes-dark tr[__gwt_header_row] > :-webkit-any(td, th), .rstudio-themes-dark .dataTables_info {
+    background-color: #090D14 !important;
+    border-color: #090D14 !important;
 }
 
 /* Rainbow Parenthesis */
