@@ -202,6 +202,7 @@
 }
 
 .ace_comment {
+  font-style: italic;
   color: #AABFC9;
   background-color: inherit;
 }
@@ -550,7 +551,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 .GCHYANPCGI {
     overflow: hidden;
     text-overflow: ellipsis;
-    color: #9FB3BD;
+    color: #748B95;
 }
 
 /* tabs container */

@@ -1,4 +1,4 @@
-rs-theme-name: Material Ocean */
+/* rs-theme-name: Material Ocean */
 /* rs-theme-is-dark: TRUE */
 .ace_gutter {
   background: #0F111A;
@@ -128,11 +128,11 @@ rs-theme-name: Material Ocean */
 }
 
 .ace_constant.ace_character {
-  color: #88DDFF;
+  color: #F88C6C;
 }
 
 .ace_constant.ace_other {
-  color: #80CBC4;
+  color: #8F93A2;
 }
 
 .ace_support.ace_function {
@@ -177,6 +177,7 @@ rs-theme-name: Material Ocean */
 }
 
 .ace_comment {
+  font-style: italic;
   color: #464B5D;
 }
 
@@ -185,7 +186,7 @@ rs-theme-name: Material Ocean */
 }
 
 .ace_variable {
-  color: #C792EA;
+  color: #FFCB6B;
 }
 
 .ace_variable.ace_parameter {
@@ -198,7 +199,7 @@ rs-theme-name: Material Ocean */
 }
 
 .ace_entity.ace_name.ace_function {
-  color: #80CBC4;
+  color: #8AAAFF;
 }
 
 .ace_entity.ace_name.ace_tag {
@@ -251,11 +252,11 @@ rs-theme-name: Material Ocean */
 }
 
 .ace_support.ace_function.ace_codebegin, .ace_support.ace_function.ace_codeend {
-  color: #80CBC4;
+  color: #8AAAFF;
 }
 
 .ace_markup.ace_href {
-  color: #80CBC4;
+  color: #80cbc4;
 }
 
 .nocolor.ace_editor .ace_line span {
@@ -324,7 +325,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat.editor_dark .ace_editor_theme .GCHYANPCGI {
-    color: #6D7388 !important;
+    color: #A3A7B6;
 }
 
 .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-VDragger {
@@ -2997,7 +2998,7 @@ input#rstudio_command_palette_search {
 }
 
 .GCHYANPCLUB {
-    color: #A5ABD0;
+    color: #B0BEC5;
     font-size: 0.9em;
     word-wrap: break-word;
 }

@@ -177,6 +177,7 @@
 }
 
 .ace_comment {
+  font-style: italic;
   color: #546e7a;
 }
 
@@ -324,7 +325,7 @@ table.rstheme_tabLayoutCenter .gwt-Label,
 }
 
 .rstudio-themes-flat.editor_dark .ace_editor_theme .GCHYANPCGI {
-    color: #889EA8;
+    color: #ADBCC5;
 }
 
 .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-HDragger, .rstudio-themes-flat .rstudio-themes-dark-grey .gwt-SplitLayoutPanel-VDragger {
