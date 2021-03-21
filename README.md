@@ -1,6 +1,6 @@
 # RStudio-Material-Theme
 
-Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Material Theme](https://github.com/material-theme/vsc-material-theme) in the Ocean and Palenight variants. The theme was built using [Garrick Aden-Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes) as a template.
+Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Material Theme](https://github.com/material-theme/vsc-material-theme).
 
 
 <figure>
@@ -24,3 +24,7 @@ To install the Palenight variant, run the following in the RStudio console:
 ```r
 rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Material-Theme/main/material-palenight.rstheme", apply = TRUE)
 ```
+
+## Acknowledgements
+* Palette by [Mattia Astorino](https://github.com/equinusocio)
+* Theme was largely built using [Garrick Aden-Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes)
