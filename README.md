@@ -35,7 +35,7 @@ Full RStudio port of [Mattia Astorino](https://github.com/equinusocio)'s [Materi
 ## Installation
 To install, download the folder, unzip, and open RStudio. From RStudio click Preferences, Appearance, Add, and then navigate to the rstheme for the theme that you'd like to install. Click apply.
 
-If you're comfortable installing from the console and have Devtools installed then you can copy the following into your console:
+If you're comfortable installing from the console and have [Devtools](https://github.com/r-lib/devtools) installed then you can copy the following into your console:
 
 Material:
 ```r
@@ -59,5 +59,6 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Materia
 ```
 
 ## Acknowledgements
-* Palette by [Mattia Astorino](https://github.com/equinusocio)
-* Theme was largely built using [Garrick Aden-Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* Theme by [Mattia Astorino](https://github.com/equinusocio)
+* Rstudio port was largely built using [Garrick Aden-Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* Sample code comes from [R for Data Science](https://r4ds.had.co.nz/)
