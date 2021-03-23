@@ -60,5 +60,5 @@ rstudioapi::addTheme("https://raw.githubusercontent.com/lusignan/RStudio-Materia
 
 ## Acknowledgements
 * Theme by [Mattia Astorino](https://github.com/equinusocio)
-* Rstudio port was largely built using [Garrick Aden-Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes)
+* RStudio port was largely built using [Garrick Aden-Buie](https://github.com/gadenbuie)'s [rsthemes package](https://github.com/gadenbuie/rsthemes)
 * Sample code comes from [R for Data Science](https://r4ds.had.co.nz/)
