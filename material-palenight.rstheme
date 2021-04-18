@@ -199,7 +199,7 @@
 }
 
 .ace_entity.ace_name.ace_function {
-  color: #80cbc4;
+  color: #C792EA;
 }
 
 .ace_entity.ace_name.ace_tag {
@@ -252,7 +252,7 @@
 }
 
 .ace_support.ace_function.ace_codebegin, .ace_support.ace_function.ace_codeend {
-  color: #80cbc4;
+  color: #C792EA;
 }
 
 .ace_markup.ace_href {

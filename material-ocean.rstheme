@@ -252,7 +252,7 @@
 }
 
 .ace_support.ace_function.ace_codebegin, .ace_support.ace_function.ace_codeend {
-  color: #8AAAFF;
+  color: #C792EA;
 }
 
 .ace_markup.ace_href {

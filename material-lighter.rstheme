@@ -284,7 +284,7 @@
 }
 
 .ace_support.ace_function.ace_codebegin, .ace_support.ace_function.ace_codeend {
-  color: #6182B8;
+  color: #7c4dff;
   background-color: inherit;
 }
 
